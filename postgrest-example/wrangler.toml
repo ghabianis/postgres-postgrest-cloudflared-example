@@ -1,0 +1,4 @@
+name = "postgrest-example"
+main = "src/index.ts"
+compatibility_date = "2023-03-15"
+account_id = "4bdc293a36e8970e18b617efb53fb567"
